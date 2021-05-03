@@ -2,4 +2,4 @@
 - 👀 I’m interested in game development, Unity 3D, AI text adventures
 - 🌱 I’m currently learning AI learning. When I get my videocard back - Unity 3D.
 - 💞️ I’m looking to collaborate on interesting novice projects that involve either Unity or AI.
-- 📫 How to reach me: if you really want you, you will message me.
+- 📫 How to reach me: if you really want to, you will message me.
