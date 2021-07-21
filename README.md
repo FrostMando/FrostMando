@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @FrostMando
-- 👀 I’m interested in game development, Unity 3D, AI text adventures
-- 🌱 I’m currently learning AI learning. When I get my videocard back - Unity 3D.
-- 💞️ I’m looking to collaborate on interesting novice projects that involve either Unity or AI.
-- 📫 How to reach me: if you really want to, you will message me.
+- 👀 I’m interested in game development, AI text adventures and Space Station 14. I use Linux as my main OS and VS Code as my IDE.
+- 🌱 I’m currently setting up the environment to work on Space Station 14, a remake of the cult classic Space Station 13.
+- 💞️ I’m dedicated to collaborate on Space Station 14. I hope that in the near future I will be a good asset to the SS14 dev team :)
+- 📫 How to reach me:
+-   Discord: FrostMando#5673
